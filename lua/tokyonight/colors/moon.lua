@@ -28,7 +28,7 @@ return {
   fg = "#c0c7d3",
   fg_dark = "#c0c7d3", -- filenames in nerdtree
 
-  blue5 = "#f6f8fb", -- commas, curly brace
+  blue5 = "#c0c7d3", -- commas, curly brace
   dark5 = "#ffffff", -- squares in auto fill
   teal = "#f5f2d6", -- warnings from linter
 
