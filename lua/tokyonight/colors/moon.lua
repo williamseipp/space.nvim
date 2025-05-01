@@ -11,23 +11,17 @@ return {
   blue6 = "#e6de98",
   dark3 = "#f0c674", -- numbers for git telescope
 
-  yellow = "#f8f8f2", -- variables and parameters
-  blue = "#f8f8f2", -- function names
-  --yellow = "#b3bdd5", -- variables and parameters
-  --blue = "#b3bdd5", -- function names
+  yellow = "#b3bdd5", -- variables and parameters
+  blue = "#b3bdd5", -- function names
 
-  cyan = "#b3bdd5", -- keywords1
-  magenta = "#b3bdd5",
-  purple = "#b3bdd5", -- keywords2
-  --cyan = "#f8f8f2", -- keywords1
-  --magenta = "#f8f8f2",
-  --purple = "#f8f8f2", -- keywords2
-  --cyan = "#88c0d0", -- keywords1
+  magenta = "#f8f8f2",
+  purple = "#f8f8f2", -- keywords2
+  cyan = "#88c0d0", -- keywords1
 
   comment = "#4a5468", -- comments
 
   dark5 = "#ffffff", -- squares in auto fill
-  fg = "#b3bdd5",
+  fg = "#b2b3b6",
   --fg = "#aeb2bb",
   --fg_dark = "#828bb8",
   fg_dark = "#c3c6cd", -- filenames in nerdtree
@@ -35,7 +29,7 @@ return {
   fg_gutter = "#4a5468", -- line numbers
   -- green = "#c3e88d",
   green = "#5f819d", -- strings
-  green1 = "#ABE946",
+  green1 = "#ABE946", --
   green2 = "#41a6b5",
   magenta2 = "#ff005f", -- highlight for LEAP
   orange = "#f0c674", -- markdown headings
@@ -52,3 +46,8 @@ return {
 }
 
 --foreground #c6cdd2
+--
+--color=fg:#b2b3b6,fg+:#b2b3b6
+--color=bg:#262b35,bg+:#262b35
+--color=hl+:#f0c674,hl:#f1ebdd
+--color=info:#f1ebdd,prompt:#262b35,spinner:#af5fff,pointer:#f0c674,marker:#87ff00'
