@@ -13,7 +13,7 @@ return {
 
   magenta = "#88c0d0",
   cyan = "#88c0d0", -- keywords1
-  purple = "#898e97", -- keywords2
+  purple = "#c0c7d3", -- keywords2
   yellow = "#b3bdd5", -- variables and parameters
   blue = "#b3bdd5", -- function names
 
