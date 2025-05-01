@@ -12,7 +12,7 @@ return {
   blue6 = "#e6de98",
   dark3 = "#f0c674", -- numbers for git telescope
   blue7 = "#cc7777",
-  yellow = "#e6de98", -- current number
+  yellow = "#cc7777", -- current number
 
   comment = "#4a5468", -- comments
   cyan = "#88c0d0", -- keywords1
