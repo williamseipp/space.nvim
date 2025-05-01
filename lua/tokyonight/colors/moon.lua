@@ -11,7 +11,7 @@ return {
   blue1 = "#c3c6cd", -- telescope border
 
   blue2 = "#e2b714", -- rubocop error and [!note] for meander callouts
-  green1 = "#e6de98", --
+  green1 = "#c0c7d3", --
   blue6 = "#e6de98",
   dark3 = "#f0c674", -- numbers for git telescope
   orange = "#f0c674", -- markdown headings
