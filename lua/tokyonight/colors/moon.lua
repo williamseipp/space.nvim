@@ -20,7 +20,7 @@ return {
   green2 = "#41a6b5",
   magenta = "#88c0d0",
   cyan = "#88c0d0", -- keywords1
-  purple = "#c0c7d3", -- keywords2
+  purple = "#88c0d0", -- keywords2
   yellow = "#c0c7d3", -- variables and parameters
   blue = "#c0c7d3", -- function names
   red = "#c0c7d3", -- KEYWORD SELF in RUBY, deleted lines in lazygit
