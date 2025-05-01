@@ -4,7 +4,7 @@ return {
   bg_dark = "#262b35",
   bg_dark1 = "#191B29",
   bg_highlight = "#2b303c",
-  blue = "#839cd5", -- function names
+  blue = "#b3bdd5", -- function names
   blue0 = "#4f596e",
   blue1 = "#c3c6cd", -- telescope border
   blue2 = "#e2b714", -- rubocop error and [!note] for meander callouts
