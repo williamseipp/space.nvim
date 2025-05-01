@@ -11,8 +11,7 @@ return {
   blue5 = "#f6f8fb", -- commas, curly brace
   blue6 = "#e6de98",
   dark3 = "#f0c674", -- numbers for git telescope
-  blue7 = "#cc7777",
-  yellow = "#cc7777", -- current number
+  yellow = "#b3bdd5", -- variables and parameters
 
   comment = "#4a5468", -- comments
   cyan = "#88c0d0", -- keywords1
@@ -35,6 +34,7 @@ return {
   red1 = "#db4b4b",
   teal = "#f5f2d6", -- warnings from linter
   terminal_black = "#cc7777",
+  blue7 = "#cc7777",
   git = {
     add = "#8fbd77",
     change = "#e6dc90",
