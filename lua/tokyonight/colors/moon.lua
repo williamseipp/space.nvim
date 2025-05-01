@@ -28,7 +28,7 @@ return {
   magenta = "#88c0d0",
   magenta2 = "#ff005f", -- highlight for LEAP
   orange = "#f0c674", -- markdown headings
-  purple = "#9881CC", -- keywords2
+  purple = "#88c0d0", -- keywords2
   red = "#ea6060", -- KEYWORD SELF in RUBY, deleted lines in lazygit
   red1 = "#db4b4b",
   teal = "#f5f2d6", -- warnings from linter
