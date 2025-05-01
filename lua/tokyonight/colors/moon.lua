@@ -14,7 +14,10 @@ return {
   yellow = "#b3bdd5", -- variables and parameters
 
   comment = "#4a5468", -- comments
-  cyan = "#88c0d0", -- keywords1
+  --cyan = "#88c0d0", -- keywords1
+  cyan = "#f8f8f2", -- keywords1
+  magenta = "#f8f8f2",
+
   dark5 = "#ffffff", -- squares in auto fill
   fg = "#b3bdd5",
   --fg = "#aeb2bb",
@@ -26,7 +29,6 @@ return {
   green = "#5f819d", -- strings
   green1 = "#ABE946",
   green2 = "#41a6b5",
-  magenta = "#88c0d0",
   magenta2 = "#ff005f", -- highlight for LEAP
   orange = "#f0c674", -- markdown headings
   purple = "#88c0d0", -- keywords2
@@ -43,6 +45,3 @@ return {
 }
 
 --foreground #c6cdd2
---color4  #f8f8f2
---cursor #88c0d0
---color7  #8fbd77
