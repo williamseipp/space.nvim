@@ -10,10 +10,12 @@ return {
   blue2 = "#e2b714", -- rubocop error and [!note] for meander callouts
   blue5 = "#f6f8fb", -- commas, curly brace
   blue6 = "#e6de98",
-  blue7 = "#e8d09c",
+  dark3 = "#f0c674", -- numbers for git telescope
+  blue7 = "#cc7777",
+  yellow = "#e6de98", -- current number
+
   comment = "#4a5468", -- comments
   cyan = "#88c0d0", -- keywords1
-  dark3 = "#f0c674", -- numbers for git telescope
   dark5 = "#ffffff", -- squares in auto fill
   fg = "#b3bdd5",
   --fg = "#aeb2bb",
@@ -33,10 +35,14 @@ return {
   red1 = "#db4b4b",
   teal = "#f5f2d6", -- warnings from linter
   terminal_black = "#cc7777",
-  yellow = "#e6de98", -- current number
   git = {
-    add = "#449dab",
-    change = "#6183bb",
-    delete = "#914c54",
+    add = "#8fbd77",
+    change = "#e6dc90",
+    delete = "#cc7777",
   },
 }
+
+--foreground #c6cdd2
+--color4  #f8f8f2
+--cursor #88c0d0
+--color7  #8fbd77
