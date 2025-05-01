@@ -11,12 +11,11 @@ return {
   blue6 = "#e6de98",
   dark3 = "#f0c674", -- numbers for git telescope
 
-  yellow = "#b3bdd5", -- variables and parameters
-  blue = "#b3bdd5", -- function names
-
   magenta = "#88c0d0",
   cyan = "#88c0d0", -- keywords1
-  purple = "#f8f8f2", -- keywords2
+  purple = "#898e97", -- keywords2
+  yellow = "#b3bdd5", -- variables and parameters
+  blue = "#b3bdd5", -- function names
 
   comment = "#4a5468", -- comments
 
