@@ -29,7 +29,7 @@ return {
   fg_dark = "#c0c7d3", -- filenames in nerdtree
 
   blue5 = "#f6f8fb", -- commas, curly brace
-  dark5 = "#c0c7d3", -- squares in auto fill
+  dark5 = "#ffffff", -- squares in auto fill
   teal = "#f5f2d6", -- warnings from linter
 
   magenta2 = "#ff005f", -- highlight for LEAP
