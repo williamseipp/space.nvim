@@ -14,9 +14,9 @@ return {
   yellow = "#b3bdd5", -- variables and parameters
   blue = "#b3bdd5", -- function names
 
-  magenta = "#f8f8f2",
-  purple = "#f8f8f2", -- keywords2
+  magenta = "#88c0d0",
   cyan = "#88c0d0", -- keywords1
+  purple = "#f8f8f2", -- keywords2
 
   comment = "#4a5468", -- comments
 
