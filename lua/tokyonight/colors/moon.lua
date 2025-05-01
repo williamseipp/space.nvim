@@ -4,20 +4,27 @@ return {
   bg_dark = "#262b35",
   bg_dark1 = "#191B29",
   bg_highlight = "#2b303c",
-  blue = "#b3bdd5", -- function names
   blue0 = "#4f596e",
   blue1 = "#c3c6cd", -- telescope border
   blue2 = "#e2b714", -- rubocop error and [!note] for meander callouts
   blue5 = "#f6f8fb", -- commas, curly brace
   blue6 = "#e6de98",
   dark3 = "#f0c674", -- numbers for git telescope
-  yellow = "#b3bdd5", -- variables and parameters
+
+  yellow = "#f8f8f2", -- variables and parameters
+  blue = "#f8f8f2", -- function names
+  --yellow = "#b3bdd5", -- variables and parameters
+  --blue = "#b3bdd5", -- function names
+
+  cyan = "#b3bdd5", -- keywords1
+  magenta = "#b3bdd5",
+  purple = "#b3bdd5", -- keywords2
+  --cyan = "#f8f8f2", -- keywords1
+  --magenta = "#f8f8f2",
+  --purple = "#f8f8f2", -- keywords2
+  --cyan = "#88c0d0", -- keywords1
 
   comment = "#4a5468", -- comments
-  --cyan = "#88c0d0", -- keywords1
-  cyan = "#f8f8f2", -- keywords1
-  magenta = "#f8f8f2",
-  purple = "#f8f8f2", -- keywords2
 
   dark5 = "#ffffff", -- squares in auto fill
   fg = "#b3bdd5",
