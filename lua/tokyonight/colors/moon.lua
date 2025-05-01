@@ -21,10 +21,10 @@ return {
   --fg_gutter = "#3b4261",
   fg_gutter = "#4a5468", -- line numbers
   -- green = "#c3e88d",
-  green = "#98b87b", -- strings
+  green = "#5f819d", -- strings
   green1 = "#ABE946",
   green2 = "#41a6b5",
-  magenta = "#c099ff",
+  magenta = "#88c0d0",
   magenta2 = "#ff005f", -- highlight for LEAP
   orange = "#f0c674", -- markdown headings
   purple = "#9881CC", -- numbers
