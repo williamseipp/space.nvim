@@ -23,6 +23,7 @@ return {
   purple = "#c0c7d3", -- keywords2
   yellow = "#c0c7d3", -- variables and parameters
   blue = "#c0c7d3", -- function names
+  red = "#c0c7d3", -- KEYWORD SELF in RUBY, deleted lines in lazygit
   red1 = "#c0c7d3",
   fg = "#c0c7d3",
   fg_dark = "#c0c7d3", -- filenames in nerdtree
@@ -32,7 +33,6 @@ return {
   teal = "#f5f2d6", -- warnings from linter
 
   magenta2 = "#ff005f", -- highlight for LEAP
-  red = "#ea6060", -- KEYWORD SELF in RUBY, deleted lines in lazygit
   terminal_black = "#cc7777",
   blue7 = "#cc7777",
   git = {
