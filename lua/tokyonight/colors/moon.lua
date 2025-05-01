@@ -3,7 +3,7 @@ return {
   bg = "#262b35",
   bg_dark = "#262b35",
   bg_dark1 = "#191B29",
-  bg_highlight = "#cc7777",
+  bg_highlight = "#2b303c",
   blue = "#f0c674",
   blue0 = "#4f596e",
   blue1 = "#c3c6cd", -- telescope border
