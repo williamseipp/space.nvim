@@ -4,7 +4,7 @@ return {
   bg_dark = "#262b35",
   bg_dark1 = "#191B29",
   bg_highlight = "#2b303c",
-  blue = "#cc7777",
+  blue = "#839cd5", -- function names
   blue0 = "#4f596e",
   blue1 = "#c3c6cd", -- telescope border
   blue2 = "#e2b714", -- rubocop error and [!note] for meander callouts
@@ -12,10 +12,11 @@ return {
   blue6 = "#e6de98",
   blue7 = "#e8d09c",
   comment = "#4a5468", -- comments
-  cyan = "#88c0d0", -- keywords
+  cyan = "#88c0d0", -- keywords1
   dark3 = "#f0c674", -- numbers for git telescope
   dark5 = "#ffffff", -- squares in auto fill
-  fg = "#aeb2bb",
+  fg = "#b3bdd5",
+  --fg = "#aeb2bb",
   --fg_dark = "#828bb8",
   fg_dark = "#c3c6cd", -- filenames in nerdtree
   --fg_gutter = "#3b4261",
@@ -27,7 +28,7 @@ return {
   magenta = "#88c0d0",
   magenta2 = "#ff005f", -- highlight for LEAP
   orange = "#f0c674", -- markdown headings
-  purple = "#9881CC", -- numbers
+  purple = "#9881CC", -- keywords2
   red = "#ea6060", -- KEYWORD SELF in RUBY, deleted lines in lazygit
   red1 = "#db4b4b",
   teal = "#f5f2d6", -- warnings from linter
