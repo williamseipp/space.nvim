@@ -25,7 +25,7 @@ return {
   dark3 = "#f0c674", -- numbers for git telescope
   orange = "#f0c674", -- markdown headings
 
-  green = "#8fbd77", -- strings
+  green = "#8abeb7", -- strings
   green2 = "#41a6b5",
   magenta = "#88c0d0",
   cyan = "#88c0d0", -- keywords1
