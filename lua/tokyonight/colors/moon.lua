@@ -11,7 +11,7 @@ return {
   blue1 = "#c3c6cd", -- telescope border
 
   blue2 = "#e2b714", -- rubocop error and [!note] for meander callouts
-  green1 = "#c0c7d3", --
+  green1 = "#979ea9", --
   blue6 = "#e6de98",
   dark3 = "#f0c674", -- numbers for git telescope
   orange = "#f0c674", -- markdown headings
@@ -21,14 +21,14 @@ return {
   magenta = "#88c0d0",
   cyan = "#88c0d0", -- keywords1
   purple = "#88c0d0", -- keywords2
-  yellow = "#c0c7d3", -- variables and parameters
-  blue = "#c0c7d3", -- function names
-  red = "#c0c7d3", -- KEYWORD SELF in RUBY, deleted lines in lazygit
-  red1 = "#c0c7d3",
-  fg = "#c0c7d3",
-  fg_dark = "#c0c7d3", -- filenames in nerdtree
+  yellow = "#979ea9", -- variables and parameters
+  blue = "#979ea9", -- function names
+  red = "#979ea9", -- KEYWORD SELF in RUBY, deleted lines in lazygit
+  red1 = "#979ea9",
+  fg = "#979ea9",
+  fg_dark = "#979ea9", -- filenames in nerdtree
 
-  blue5 = "#c0c7d3", -- commas, curly brace
+  blue5 = "#979ea9", -- commas, curly brace
   dark5 = "#ffffff", -- squares in auto fill
   teal = "#f5f2d6", -- warnings from linter
 
