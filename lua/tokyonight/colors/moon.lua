@@ -26,7 +26,7 @@ return {
   orange = "#e6de98", -- markdown headings
 
   --green = "#8abeb7", -- strings
-  green = "#698fad", -- strings
+  green = "#e7ddc4", -- strings
   green2 = "#41a6b5",
   magenta = "#88c0d0",
   cyan = "#88c0d0", -- keywords1
