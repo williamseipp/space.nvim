@@ -32,9 +32,9 @@ return {
   --cyan = "#88c0d0", -- keywords1
   --purple = "#88c0d0", -- keywords2
   fg = "#aab2c0",
-  magenta = "#d6dae1",
-  cyan = "#d6dae1", -- keywords1
-  purple = "#d6dae1", -- keywords2
+  magenta = "#8d97aa",
+  cyan = "#8d97aa", -- keywords1
+  purple = "#8d97aa", -- keywords2
 
   magenta2 = "#ff005f", -- highlight for LEAP
   terminal_black = "#cc7777",
