@@ -24,12 +24,12 @@ return {
   blue2 = "#e2b714", -- rubocop error and [!note] for meander callouts
 
   --blue6 = "#e6de98",
-  blue6 = "#dad4c2",
-  dark3 = "#dad4c2", -- numbers for git telescope
-  orange = "#dad4c2", -- markdown headings
+  blue6 = "#d9ccac",
+  dark3 = "#d9ccac", -- numbers for git telescope
+  orange = "#d9ccac", -- markdown headings
 
   --green = "#8abeb7", -- strings
-  green = "#dad4c2", -- strings
+  green = "#d9ccac", -- strings
   green2 = "#41a6b5",
   magenta = "#88c0d0",
   cyan = "#88c0d0", -- keywords1
