@@ -1,9 +1,9 @@
 ---@type Palette
 return {
-  bg = "#2a2a2e",
-  bg_dark = "#2a2a2e",
+  bg = "#262b35",
+  bg_dark = "#262b35",
   bg_dark1 = "#191B29",
-  bg_highlight = "#606063",
+  bg_highlight = "#2b303c",
   blue0 = "#4f596e",
   fg_gutter = "#4a5468", -- line numbers
   --comment = "#4a5468", -- comments
@@ -11,15 +11,15 @@ return {
 
   dark5 = "#f1ebdd", -- squares in auto fill
   teal = "#f1ebdd", -- warnings from linter
-  fg = "#d5d5d6",
-  blue1 = "#d5d5d6", -- telescope border
-  green1 = "#d5d5d6", --
-  yellow = "#d5d5d6", -- variables and parameters
-  blue = "#d5d5d6", -- function names
-  red = "#d5d5d6", -- KEYWORD SELF in RUBY, deleted lines in lazygit
-  red1 = "#d5d5d6",
-  fg_dark = "#d5d5d6", -- filenames in nerdtree
-  blue5 = "#d5d5d6", -- commas, curly brace
+  fg = "#aab2c0",
+  blue1 = "#aab2c0", -- telescope border
+  green1 = "#aab2c0", --
+  yellow = "#aab2c0", -- variables and parameters
+  blue = "#aab2c0", -- function names
+  red = "#aab2c0", -- KEYWORD SELF in RUBY, deleted lines in lazygit
+  red1 = "#aab2c0",
+  fg_dark = "#aab2c0", -- filenames in nerdtree
+  blue5 = "#aab2c0", -- commas, curly brace
 
   blue2 = "#e2b714", -- rubocop error and [!note] for meander callouts
 
@@ -31,9 +31,9 @@ return {
   --green = "#8abeb7", -- strings
   green = "#c0bfaa", -- strings
   green2 = "#41a6b5",
-  magenta = "#ffffff",
-  cyan = "#ffffff", -- keywords1
-  purple = "#ffffff", -- keywords2
+  magenta = "#88c0d0",
+  cyan = "#88c0d0", -- keywords1
+  purple = "#88c0d0", -- keywords2
 
   magenta2 = "#ff005f", -- highlight for LEAP
   terminal_black = "#cc7777",
