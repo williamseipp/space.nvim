@@ -11,6 +11,7 @@ return {
 
   dark5 = "#f1ebdd", -- squares in auto fill
   teal = "#f1ebdd", -- warnings from linter
+  fg = "#b9bfcb",
   blue1 = "#b9bfcb", -- telescope border
   green1 = "#b9bfcb", --
   yellow = "#b9bfcb", -- variables and parameters
@@ -28,8 +29,6 @@ return {
   --green = "#8abeb7", -- strings
   green = "#e7ddc4", -- strings
   green2 = "#41a6b5",
-  --fg = "#b9bfcb",
-  fg = "#8d97aa",
   magenta = "#88c0d0",
   cyan = "#88c0d0", -- keywords1
   purple = "#88c0d0", -- keywords2
