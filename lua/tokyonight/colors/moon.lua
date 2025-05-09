@@ -6,7 +6,8 @@ return {
   bg_highlight = "#2b303c",
   blue0 = "#4f596e",
   fg_gutter = "#4a5468", -- line numbers
-  comment = "#4a5468", -- comments
+  --comment = "#4a5468", -- comments
+  comment = "#3b4353", -- comments
 
   dark5 = "#f1ebdd", -- squares in auto fill
   teal = "#f1ebdd", -- warnings from linter
