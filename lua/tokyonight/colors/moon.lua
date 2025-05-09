@@ -31,9 +31,9 @@ return {
   --green = "#8abeb7", -- strings
   green = "#c0bfaa", -- strings
   green2 = "#41a6b5",
-  magenta = "#99bdc7",
-  cyan = "#99bdc7", -- keywords1
-  purple = "#99bdc7", -- keywords2
+  magenta = "#88c0d0",
+  cyan = "#88c0d0", -- keywords1
+  purple = "#88c0d0", -- keywords2
 
   magenta2 = "#ff005f", -- highlight for LEAP
   terminal_black = "#cc7777",
