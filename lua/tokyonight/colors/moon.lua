@@ -37,7 +37,7 @@ return {
 
   magenta2 = "#ff005f", -- highlight for LEAP
   terminal_black = "#cc7777",
-  blue7 = "#cc7777",
+  blue7 = "#262b35",
   git = {
     add = "#8fbd77",
     change = "#e6dc90",
