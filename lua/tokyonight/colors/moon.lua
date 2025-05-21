@@ -6,8 +6,7 @@ return {
   bg_highlight = "#2b303c",
   blue0 = "#4f596e",
   fg_gutter = "#4a5468", -- line numbers
-  --comment = "#4a5468", -- comments
-  comment = "#3b4353", -- comments
+  comment = "#e2b714", -- comments
 
   dark5 = "#f1ebdd", -- squares in auto fill
   teal = "#f1ebdd", -- warnings from linter
@@ -15,7 +14,7 @@ return {
   blue1 = "#aab2c0", -- telescope border
   green1 = "#aab2c0", --
   yellow = "#aab2c0", -- variables and parameters
-  blue = "#aab2c0", -- function names
+  blue = "#88c0d0", -- function names
   red = "#aab2c0", -- KEYWORD SELF in RUBY, deleted lines in lazygit
   red1 = "#aab2c0",
   fg_dark = "#aab2c0", -- filenames in nerdtree
@@ -23,13 +22,11 @@ return {
 
   blue2 = "#e2b714", -- rubocop error and [!note] for meander callouts
 
-  --blue6 = "#e6de98",
   blue6 = "#c0bfaa",
   dark3 = "#c0bfaa", -- numbers for git telescope
   orange = "#c0bfaa", -- markdown headings
-
-  --green = "#8abeb7", -- strings
   green = "#c0bfaa", -- strings
+
   green2 = "#41a6b5",
   magenta = "#88c0d0",
   cyan = "#88c0d0", -- keywords1
