@@ -18,7 +18,7 @@ return {
   red = "#aab2c0", -- KEYWORD SELF in RUBY, deleted lines in lazygit
   red1 = "#aab2c0",
   fg_dark = "#aab2c0", -- filenames in nerdtree
-  blue5 = "#8893a7", -- commas, curly brace
+  blue5 = "#b0b4ba", -- commas, curly brace
 
   blue2 = "#e2b714", -- rubocop error and [!note] for meander callouts
 
