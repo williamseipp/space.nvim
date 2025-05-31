@@ -29,7 +29,7 @@ return {
 
   green2 = "#41a6b5",
   magenta = "#aab2c0",
-  cyan = "#aab2c0", -- keywords1
+  cyan = "#f1ebdd", -- keywords1
   purple = "#aab2c0", -- keywords2
 
   magenta2 = "#ff005f", -- highlight for LEAP
