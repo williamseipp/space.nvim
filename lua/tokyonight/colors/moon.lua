@@ -1,7 +1,7 @@
 ---@type Palette
 return {
-  bg = "#191a1a",
-  bg_dark = "#191a1a",
+  bg = "#262b35",
+  bg_dark = "#262b35",
   bg_dark1 = "#191B29",
   bg_highlight = "#2b303c",
   blue0 = "#4f596e",
