@@ -10,14 +10,14 @@ return {
 
   dark5 = "#f1ebdd", -- squares in auto fill
   teal = "#f1ebdd", -- warnings from linter
-  fg = "#8d9191",
-  blue1 = "#8d9191", -- telescope border
-  green1 = "#8d9191", --
-  yellow = "#8d9191", -- variables and parameters
+  fg = "#b0b4ba",
+  blue1 = "#b0b4ba", -- telescope border
+  green1 = "#b0b4ba", --
+  yellow = "#b0b4ba", -- variables and parameters
   blue = "#e6dc90", -- function names
-  red = "#8d9191", -- KEYWORD SELF in RUBY, deleted lines in lazygit
-  red1 = "#8d9191",
-  fg_dark = "#8d9191", -- filenames in nerdtree
+  red = "#b0b4ba", -- KEYWORD SELF in RUBY, deleted lines in lazygit
+  red1 = "#b0b4ba",
+  fg_dark = "#b0b4ba", -- filenames in nerdtree
   blue5 = "#b0b4ba", -- commas, curly brace
 
   blue2 = "#e2b714", -- rubocop error and [!note] for meander callouts
@@ -28,9 +28,9 @@ return {
   green = "#8fbd77", -- strings
 
   green2 = "#41a6b5",
-  magenta = "#8d9191",
-  cyan = "#8d9191", -- keywords1
-  purple = "#8d9191", -- keywords2
+  magenta = "#b0b4ba",
+  cyan = "#b0b4ba", -- keywords1
+  purple = "#b0b4ba", -- keywords2
 
   magenta2 = "#ff005f", -- highlight for LEAP
   terminal_black = "#cc7777",
