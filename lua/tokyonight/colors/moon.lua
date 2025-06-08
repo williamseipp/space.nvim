@@ -1,26 +1,26 @@
 ---@type Palette
 return {
-  bg = "#262b35",
-  bg_dark = "#262b35",
-  bg_dark1 = "#191B29",
-  bg_highlight = "#2b303c",
-  blue0 = "#4f596e",
-  fg_gutter = "#4a5468", -- line numbers
-  comment = "#e2b714", -- comments
+  bg = "#303034",
+  bg_dark = "#303034",
+  bg_dark1 = "#1b1b1f",
+  bg_highlight = "#4d4d54",
+  blue0 = "#4d4d54",
+  fg_gutter = "#4d4d54", -- line numbers
+  comment = "#e8bb2b", -- comments
 
-  dark5 = "#f1ebdd", -- squares in auto fill
-  teal = "#f1ebdd", -- warnings from linter
-  fg = "#bfbfbf",
-  blue1 = "#bfbfbf", -- telescope border
-  green1 = "#bfbfbf", --
-  yellow = "#bfbfbf", -- variables and parameters
-  blue = "#88c0d0", -- function names
-  red = "#bfbfbf", -- KEYWORD SELF in RUBY, deleted lines in lazygit
-  red1 = "#bfbfbf",
-  fg_dark = "#bfbfbf", -- filenames in nerdtree
-  blue5 = "#b0b4ba", -- commas, curly brace
+  dark5 = "#f2f0f4", -- squares in auto fill
+  teal = "#f2f0f4", -- warnings from linter
+  fg = "#c5c6d0",
+  blue1 = "#c5c6d0", -- telescope border
+  green1 = "#c5c6d0", --
+  yellow = "#c5c6d0", -- variables and parameters
+  blue = "#d9e2ff", -- function names
+  red = "#c5c6d0", -- KEYWORD SELF in RUBY, deleted lines in lazygit
+  red1 = "#c5c6d0",
+  fg_dark = "#c5c6d0", -- filenames in nerdtree
+  blue5 = "#c2c2c2", -- commas, curly brace
 
-  blue2 = "#e2b714", -- rubocop error and [!note] for meander callouts
+  blue2 = "#e8bb2b", -- rubocop error and [!note] for meander callouts
 
   blue6 = "#c0bfaa",
   dark3 = "#c0bfaa", -- numbers for git telescope
@@ -28,9 +28,9 @@ return {
   green = "#c0bfaa", -- strings
 
   green2 = "#41a6b5",
-  magenta = "#bfbfbf",
-  cyan = "#bfbfbf", -- keywords1
-  purple = "#bfbfbf", -- keywords2
+  magenta = "#c5c6d0",
+  cyan = "#c5c6d0", -- keywords1
+  purple = "#c5c6d0", -- keywords2
 
   magenta2 = "#ff005f", -- highlight for LEAP
   terminal_black = "#cc7777",
