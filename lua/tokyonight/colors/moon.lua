@@ -14,7 +14,7 @@ return {
   blue1 = "#bfbfbf", -- telescope border
   green1 = "#bfbfbf", --
   yellow = "#bfbfbf", -- variables and parameters
-  blue = "#88c0d0", -- function names
+  blue = "#bfbfbf", -- function names
   red = "#bfbfbf", -- KEYWORD SELF in RUBY, deleted lines in lazygit
   red1 = "#bfbfbf",
   fg_dark = "#bfbfbf", -- filenames in nerdtree
@@ -29,7 +29,7 @@ return {
 
   green2 = "#41a6b5",
   magenta = "#bfbfbf",
-  cyan = "#bfbfbf", -- keywords1
+  cyan = "#88c0d0", -- keywords1
   purple = "#bfbfbf", -- keywords2
 
   magenta2 = "#ff005f", -- highlight for LEAP
