@@ -15,7 +15,7 @@ return {
   green1 = "#bfbfbf", --
   yellow = "#bfbfbf", -- variables and parameters
   blue = "#bfbfbf", -- function names
-  red = "#6bc1b0", -- KEYWORD SELF in RUBY, deleted lines in lazygit
+  red = "#88c0d0", -- KEYWORD SELF in RUBY, deleted lines in lazygit
   red1 = "#bfbfbf",
   fg_dark = "#bfbfbf", -- filenames in nerdtree
   blue5 = "#b0b4ba", -- commas, curly brace
@@ -28,8 +28,8 @@ return {
 
   green2 = "#41a6b5",
   magenta = "#58dda9",
-  cyan = "#6bc1b0", -- keywords1
-  purple = "#88c0d0", -- keywords2
+  cyan = "#7bc1b0", -- keywords1
+  purple = "#7bc1b0", -- keywords2
 
   magenta2 = "#ff005f", -- highlight for LEAP
   terminal_black = "#cc7777",
