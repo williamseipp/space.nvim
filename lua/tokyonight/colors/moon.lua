@@ -28,7 +28,7 @@ return {
   green = "#c0bfaa", -- strings
 
   green2 = "#41a6b5",
-  magenta = "#4eb270",
+  magenta = "#58dda9",
   cyan = "#88c0d0", -- keywords1
   purple = "#88c0d0", -- keywords2
 
