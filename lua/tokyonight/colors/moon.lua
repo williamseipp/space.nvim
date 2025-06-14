@@ -15,7 +15,7 @@ return {
   green1 = "#bfbfbf", --
   yellow = "#bfbfbf", -- variables and parameters
   blue = "#bfbfbf", -- function names
-  red = "#88c0d0", -- KEYWORD SELF in RUBY, deleted lines in lazygit
+  red = "#bfbfbf", -- KEYWORD SELF in RUBY, deleted lines in lazygit
   red1 = "#bfbfbf",
   fg_dark = "#bfbfbf", -- filenames in nerdtree
   blue5 = "#b0b4ba", -- commas, curly brace
