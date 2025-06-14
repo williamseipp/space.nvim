@@ -18,13 +18,13 @@ return {
   red = "#8bc1b0", -- KEYWORD SELF in RUBY, deleted lines in lazygit
   red1 = "#bfbfbf",
   fg_dark = "#bfbfbf", -- filenames in nerdtree
-  blue5 = "#a6c1c3", -- commas, curly brace
+  blue5 = "#bfbfbf", -- commas, curly brace
 
   blue2 = "#e4d084", -- rubocop error and [!note] for meander callouts
-  blue6 = "#c0bfaa",
-  dark3 = "#c0bfaa", -- numbers for git telescope
-  orange = "#c0bfaa", -- markdown headings
-  green = "#c0bfaa", -- strings
+  blue6 = "#a6c1c3",
+  dark3 = "#a6c1c3", -- numbers for git telescope
+  orange = "#a6c1c3", -- markdown headings
+  green = "#a6c1c3", -- strings
 
   green2 = "#41a6b5",
   magenta = "#8bc1b0",
