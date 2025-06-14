@@ -11,7 +11,7 @@ return {
   dark5 = "#f1ebdd", -- squares in auto fill
   teal = "#f1ebdd", -- warnings from linter
   fg = "#bfbfbf",
-  blue1 = "#88c0d0", -- telescope border
+  blue1 = "#bfbfbf", -- telescope border
   green1 = "#bfbfbf", --
   yellow = "#bfbfbf", -- variables and parameters
   blue = "#bfbfbf", -- function names
