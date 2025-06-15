@@ -10,15 +10,15 @@ return {
 
   dark5 = "#f1ebdd", -- squares in auto fill
   teal = "#f1ebdd", -- warnings from linter
-  fg = "#b2b3b6",
-  blue1 = "#b2b3b6", -- telescope border
-  green1 = "#b2b3b6", --
-  yellow = "#b2b3b6", -- variables and parameters
-  blue = "#b2b3b6", -- function names
+  fg = "#619d8b",
+  blue1 = "#619d8b", -- telescope border
+  green1 = "#619d8b", --
+  yellow = "#619d8b", -- variables and parameters
+  blue = "#619d8b", -- function names
   red = "#5dc997", -- KEYWORD SELF in RUBY, deleted lines in lazygit
-  red1 = "#b2b3b6",
-  fg_dark = "#b2b3b6", -- filenames in nerdtree
-  blue5 = "#b2b3b6", -- commas, curly brace
+  red1 = "#619d8b",
+  fg_dark = "#619d8b", -- filenames in nerdtree
+  blue5 = "#619d8b", -- commas, curly brace
 
   blue2 = "#e4d084", -- rubocop error and [!note] for meander callouts
   blue6 = "#a6c1c3",
