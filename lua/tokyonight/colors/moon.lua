@@ -24,8 +24,8 @@ return {
   blue5 = "#c5c8c6", -- commas, curly brace
 
   blue2 = "#e4d084", -- rubocop error and [!note] for meander callouts
-  blue6 = "#a3bd87",
-  dark3 = "#a3bd87", -- numbers for git telescope
+  blue6 = "#cc7777",
+  dark3 = "#cc7777", -- numbers for git telescope
   orange = "#a3bd87", -- markdown headings
   green = "#a3bd87", -- strings
 
