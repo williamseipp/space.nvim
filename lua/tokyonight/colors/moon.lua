@@ -8,6 +8,7 @@ return {
   fg_gutter = "#4a5468", -- line numbers
   comment = "#e4d084", -- comments
 
+  -- #a798bf
   -- #9688ab
   -- #786d89
   -- #4f4461
@@ -28,7 +29,7 @@ return {
   blue2 = "#e4d084", -- rubocop error and [!note] for meander callouts
   blue6 = "#cc7777",
   dark3 = "#cc7777", -- numbers for git telescope
-  orange = "#9688ab", -- markdown headings
+  orange = "#a798bf", -- markdown headings
   green = "#a3bd87", -- strings
 
   green2 = "#41a6b5",
