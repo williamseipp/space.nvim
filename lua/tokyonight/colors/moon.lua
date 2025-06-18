@@ -22,7 +22,7 @@ return {
   orange = "#d6dae0", -- markdown headings
   blue5 = "#c5c8c6", -- commas, curly brace
 
-  green = "#a3bd87", -- strings
+  green = "#fbe9a6", -- strings
   cyan = "#7bc1b0", -- keywords1
   green2 = "#41a6b5",
   blue1 = "#e3c574", -- telescope border
