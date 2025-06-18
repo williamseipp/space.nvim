@@ -19,7 +19,7 @@ return {
   fg = "#d6dae0",
   blue1 = "#88c0d0", -- telescope border
   green1 = "#d6dae0", --
-  yellow = "#d6dae0", -- variables and parameters
+  yellow = "#cc7777", -- variables and parameters
   blue = "#d6dae0", -- function names
   red = "#88c0d0", -- KEYWORD SELF in RUBY, deleted lines in lazygit
   red1 = "#d6dae0",
