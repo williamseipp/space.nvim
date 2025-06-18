@@ -27,8 +27,8 @@ return {
   green2 = "#41a6b5",
   blue1 = "#88c0d0", -- telescope border
   red = "#d6dae0", -- KEYWORD SELF in RUBY, deleted lines in lazygit
-  magenta = "#88c0d0", -- keywords0
-  purple = "#88c0d0", -- keywords2
+  magenta = "#d6dae0", -- keywords0
+  purple = "#d6dae0", -- keywords2
 
   blue6 = "#cc7777",
   dark3 = "#cc7777", -- numbers for git telescope
