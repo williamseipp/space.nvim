@@ -23,7 +23,7 @@ return {
   blue5 = "#c5c8c6", -- commas, curly brace
 
   green = "#e0dcbc", -- strings
-  cyan = "#7bc1b0", -- keywords1
+  cyan = "#d6dae0", -- keywords1
   green2 = "#41a6b5",
   blue1 = "#e3c574", -- telescope border
   red = "#d6dae0", -- KEYWORD SELF in RUBY, deleted lines in lazygit
