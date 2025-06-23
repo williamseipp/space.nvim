@@ -23,9 +23,9 @@ return {
   blue5 = "#c5c8c6", -- commas, curly brace
 
   green = "#e0dcbc", -- strings
-  cyan = "#d6dae0", -- keywords1
+  blue1 = "#e0dcbc", -- telescope border, some keywords?
   green2 = "#41a6b5",
-  blue1 = "#e0dcbc", -- telescope border
+  cyan = "#d6dae0", -- keywords1
   red = "#d6dae0", -- KEYWORD SELF in RUBY, deleted lines in lazygit
   magenta = "#d6dae0", -- keywords0
   purple = "#d6dae0", -- keywords2
@@ -33,7 +33,7 @@ return {
   blue6 = "#cc7777",
   dark3 = "#cc7777", -- numbers for git telescope
 
-  magenta2 = "#ff005f", -- highlight for LEAP
+  magenta2 = "#e3c574", -- highlight for LEAP
   terminal_black = "#cc7777",
   blue7 = "#cc7777",
   git = {
