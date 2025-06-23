@@ -33,7 +33,7 @@ return {
   blue6 = "#cc7777",
   dark3 = "#cc7777", -- numbers for git telescope
 
-  magenta2 = "#c5ddb9", -- highlight for LEAP
+  magenta2 = "#8acd67", -- highlight for LEAP
   terminal_black = "#cc7777",
   blue7 = "#cc7777",
   git = {
