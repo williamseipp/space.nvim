@@ -25,7 +25,7 @@ return {
   green = "#e0dcbc", -- strings
   blue1 = "#e0dcbc", -- telescope border, some keywords?
   green2 = "#41a6b5",
-  cyan = "#d6dae0", -- keywords1
+  cyan = "#cc7777", -- keywords1
   red = "#d6dae0", -- KEYWORD SELF in RUBY, deleted lines in lazygit
   magenta = "#d6dae0", -- keywords0
   purple = "#d6dae0", -- keywords2
