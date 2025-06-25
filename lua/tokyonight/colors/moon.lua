@@ -13,22 +13,22 @@ return {
   --teal = "#f1ebdd", -- warnings from linter
   dark5 = "#f2f6fb", -- squares in auto fill
   teal = "#f2f6fb", -- warnings from linter
-  fg = "#d6dae0",
-  green1 = "#d6dae0", --
-  yellow = "#d6dae0", -- variables and parameters
-  blue = "#d6dae0", -- function names
-  red1 = "#d6dae0",
-  fg_dark = "#d6dae0", -- filenames in nerdtree
-  orange = "#d6dae0", -- markdown headings
+  fg = "#a1a4a9",
+  green1 = "#a1a4a9", --
+  yellow = "#a1a4a9", -- variables and parameters
+  blue = "#a1a4a9", -- function names
+  red1 = "#a1a4a9",
+  fg_dark = "#a1a4a9", -- filenames in nerdtree
+  orange = "#a1a4a9", -- markdown headings
   blue5 = "#c5c8c6", -- commas, curly brace
 
   green = "#e0dcbc", -- strings
   blue1 = "#e0dcbc", -- telescope border, some keywords?
   green2 = "#41a6b5",
   cyan = "#cc7777", -- keywords1
-  red = "#d6dae0", -- KEYWORD SELF in RUBY, deleted lines in lazygit
-  magenta = "#d6dae0", -- keywords0
-  purple = "#d6dae0", -- keywords2
+  red = "#a1a4a9", -- KEYWORD SELF in RUBY, deleted lines in lazygit
+  magenta = "#cc7777", -- keywords0
+  purple = "#a1a4a9", -- keywords2
 
   blue6 = "#cc7777",
   dark3 = "#cc7777", -- numbers for git telescope
