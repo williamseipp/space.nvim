@@ -27,7 +27,7 @@ return {
   green2 = "#41a6b5",
   cyan = "#cc7777", -- keywords1
   red = "#c5c8c6", -- KEYWORD SELF in RUBY, deleted lines in lazygit
-  magenta = "#cc7777", -- keywords0
+  magenta = "#dfe0e1", -- keywords0
   purple = "#dfe0e1", -- keywords2
 
   blue6 = "#cc7777",
