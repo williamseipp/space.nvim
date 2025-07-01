@@ -6,7 +6,7 @@ return {
   bg_highlight = "#52545a",
   blue0 = "#4f596e",
   fg_gutter = "#4a5468", -- line numbers
-  comment = "#e4d084", -- comments
+  comment = "#4a5468", -- comments
   blue2 = "#e4d084", -- rubocop error and [!note] for meander callouts
 
   --dark5 = "#e7d0b4", -- squares in auto fill
@@ -33,7 +33,7 @@ return {
   blue6 = "#cc7777",
   dark3 = "#cc7777", -- numbers for git telescope
 
-  magenta2 = "#8acd67", -- highlight for LEAP
+  magenta2 = "#8fbd77", -- highlight for LEAP
   terminal_black = "#cc7777",
   blue7 = "#cc7777",
   git = {
