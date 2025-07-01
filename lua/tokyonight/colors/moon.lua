@@ -9,8 +9,6 @@ return {
   comment = "#4a5468", -- comments
   blue2 = "#e4d084", -- rubocop error and [!note] for meander callouts
 
-  --dark5 = "#e7d0b4", -- squares in auto fill
-  --teal = "#f1ebdd", -- warnings from linter
   dark5 = "#f2f6fb", -- squares in auto fill
   teal = "#f2f6fb", -- warnings from linter
   fg = "#d2d3d4",
