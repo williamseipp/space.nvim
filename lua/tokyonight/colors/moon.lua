@@ -6,7 +6,7 @@ return {
   bg_highlight = "#52545a",
   blue0 = "#4f596e",
   fg_gutter = "#4a5468", -- line numbers
-  comment = "#4a5468", -- comments
+  comment = "#e4d084", -- comments
   blue2 = "#e4d084", -- rubocop error and [!note] for meander callouts
 
   dark5 = "#f2f6fb", -- squares in auto fill
