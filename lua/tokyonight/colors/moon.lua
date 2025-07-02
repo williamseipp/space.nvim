@@ -11,21 +11,21 @@ return {
 
   dark5 = "#f2f6fb", -- squares in auto fill
   teal = "#f2f6fb", -- warnings from linter
-  fg = "#bfc9d4",
+  fg = "#d2d3d4",
   green1 = "#d2d3d4", --
-  yellow = "#bfc9d4", -- variables and parameters
+  yellow = "#d2d3d4", -- variables and parameters
   blue = "#d2d3d4", -- function names
   red1 = "#d2d3d4",
-  fg_dark = "#bfc9d4", -- filenames in nerdtree
-  orange = "#bfc9d4", -- markdown headings
+  fg_dark = "#d2d3d4", -- filenames in nerdtree
+  orange = "#d2d3d4", -- markdown headings
   blue5 = "#d2d3d4", -- commas, curly brace
 
-  green = "#e0dcbc", -- strings
+  green = "#b5bd68", -- strings
   blue1 = "#e0dcbc", -- telescope border, some keywords?
   green2 = "#41a6b5",
   cyan = "#cc7777", -- keywords1
   red = "#d2d3d4", -- KEYWORD SELF in RUBY, deleted lines in lazygit
-  magenta = "#bfc9d4", -- keywords0
+  magenta = "#b294bb", -- keywords0
   purple = "#d2d3d4", -- keywords2
 
   blue6 = "#cc7777",
