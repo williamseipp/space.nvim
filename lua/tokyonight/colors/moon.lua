@@ -11,9 +11,9 @@ return {
 
   dark5 = "#f2f6fb", -- squares in auto fill
   teal = "#f2f6fb", -- warnings from linter
-  fg = "#d2d3d4",
+  fg = "#bfc9d4",
   green1 = "#d2d3d4", --
-  yellow = "#d2d3d4", -- variables and parameters
+  yellow = "#bfc9d4", -- variables and parameters
   blue = "#d2d3d4", -- function names
   red1 = "#d2d3d4",
   fg_dark = "#bfc9d4", -- filenames in nerdtree
