@@ -26,7 +26,7 @@ return {
   cyan = "#cc7777", -- keywords1
   red = "#d2d3d4", -- KEYWORD SELF in RUBY, deleted lines in lazygit
   magenta = "#b294bb", -- keywords0
-  purple = "#d2d3d4", -- keywords2
+  purple = "#b294bb", -- keywords2
 
   blue6 = "#cc7777",
   dark3 = "#cc7777", -- numbers for git telescope
