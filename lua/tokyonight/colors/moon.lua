@@ -16,8 +16,8 @@ return {
   yellow = "#d2d3d4", -- variables and parameters
   blue = "#d2d3d4", -- function names
   red1 = "#d2d3d4",
-  fg_dark = "#d2d3d4", -- filenames in nerdtree
-  orange = "#d2d3d4", -- markdown headings
+  fg_dark = "#bfc9d4", -- filenames in nerdtree
+  orange = "#bfc9d4", -- markdown headings
   blue5 = "#d2d3d4", -- commas, curly brace
 
   green = "#e0dcbc", -- strings
