@@ -20,7 +20,7 @@ return {
   orange = "#d2d3d4", -- markdown headings
   blue5 = "#d2d3d4", -- commas, curly brace
 
-  green = "#b5bd68", -- strings
+  green = "#368468", -- strings
   blue1 = "#d2d3d4", -- telescope border, some keywords?
   green2 = "#41a6b5",
   cyan = "#cc7777", -- keywords1
