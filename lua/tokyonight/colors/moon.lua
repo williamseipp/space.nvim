@@ -3,8 +3,8 @@ return {
   bg = "#292d33",
   bg_dark = "#292d33",
   bg_dark1 = "#191B29",
-  bg_highlight = "#52545a",
-  blue0 = "#4f596e",
+  bg_highlight = "#4a5468",
+  blue0 = "#4a5468",
   fg_gutter = "#4a5468", -- line numbers
   comment = "#4f596e", -- comments
   blue2 = "#e4d084", -- rubocop error and [!note] for meander callouts
