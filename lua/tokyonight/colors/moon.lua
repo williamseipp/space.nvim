@@ -5,7 +5,7 @@ return {
   bg_highlight = "#4a5468",
   blue0 = "#4a5468",
   fg_gutter = "#4a5468", -- line numbers
-  comment = "#57637a", -- comments
+  comment = "#7383a2", -- comments
   blue2 = "#e4d084", -- rubocop error and [!note] for meander callouts
   bg_dark1 = "#e4d084",
 
@@ -15,7 +15,7 @@ return {
   green1 = "#d2d3d4", --
   yellow = "#d2d3d4", -- variables and parameters
   blue = "#d2d3d4", -- function names
-  red1 = "#cc7777",
+  red1 = "#d2d3d4",
   fg_dark = "#d2d3d4", -- filenames in nerdtree
   orange = "#d2d3d4", -- markdown headings
   blue5 = "#d2d3d4", -- commas, curly brace
