@@ -9,7 +9,7 @@ return {
   blue2 = "#e4d084", -- rubocop error and [!note] for meander callouts
   bg_dark1 = "#e4d084",
 
-  dark5 = "#f2f6fb", -- squares in auto fill
+  dark5 = "#cc7777", -- squares in auto fill
   teal = "#f2f6fb", -- warnings from linter
   fg = "#d2d3d4",
   green1 = "#d2d3d4", --
