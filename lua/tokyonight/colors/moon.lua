@@ -10,12 +10,12 @@ return {
   bg_dark1 = "#e4d084",
 
   dark5 = "#f2f6fb", -- squares in auto fill
-  teal = "#cc7777", -- warnings from linter
+  teal = "#f2f6fb", -- warnings from linter
   fg = "#d2d3d4",
   green1 = "#d2d3d4", --
   yellow = "#d2d3d4", -- variables and parameters
   blue = "#d2d3d4", -- function names
-  red1 = "#d2d3d4",
+  red1 = "#cc7777",
   fg_dark = "#d2d3d4", -- filenames in nerdtree
   orange = "#d2d3d4", -- markdown headings
   blue5 = "#d2d3d4", -- commas, curly brace
