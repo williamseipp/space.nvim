@@ -41,7 +41,7 @@ return {
   --magenta = "#81a2be", -- keywords0
   --purple = "#81a2be", -- keywords2
 
-  cyan = "#cc7777", -- keywords1
+  cyan = "#afccee", -- keywords1
   blue6 = "#cc7777",
   dark3 = "#cc7777", -- numbers for git telescope
   terminal_black = "#cc7777",
