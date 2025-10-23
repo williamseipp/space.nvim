@@ -17,7 +17,7 @@ return {
   bg_highlight = "#4a5468",
   blue0 = "#4a5468",
   fg_gutter = "#4a5468", -- line numbers
-  comment = "#e4d084", -- comments
+  comment = "#6b7496", -- comments
   blue2 = "#e4d084", -- rubocop error and [!note] for meander callouts
   bg_dark1 = "#e4d084",
 
