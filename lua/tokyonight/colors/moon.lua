@@ -12,7 +12,7 @@ return {
   --#18878f
   --#5c6c7d
   --#
-  bg = "#292d33",
+  bg = "#cc7777",
   bg_dark = "#292d33",
   bg_highlight = "#cc7777",
   blue0 = "#cc7777",
